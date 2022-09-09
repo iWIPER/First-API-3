@@ -15,4 +15,5 @@ public class StringController {
             return s1;
         } else { return s1 + " " + s2;}
     }
+
 }
